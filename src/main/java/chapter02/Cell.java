@@ -1,4 +1,4 @@
-package second;
+package chapter02;
 
 public class Cell {
     int cell;

@@ -1,4 +1,4 @@
-package second;
+package chapter02;
 
 public class GuessStatistcsMessageNotGood {
     /**

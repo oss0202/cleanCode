@@ -1,4 +1,4 @@
-package second;
+package chapter02;
 
 /**
  * GuessStatistcsMessageNotGood class에 있는
